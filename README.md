@@ -1,3 +1,3 @@
 #React practice
 #Demo
-[GitHub Page](https://yananaumova.github.io/hpraktic6.1/)
+[GitHub Page](https://yananaumova.github.io/praktic6.1/)
